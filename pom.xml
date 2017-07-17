@@ -6,7 +6,12 @@
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>koko-ai</name>
+  <description>Koko API Client for Java</description>
   <url>https://github.com/itskoko/koko-ai-java</url>
+  <organization>
+      <name>Koko</name>
+      <url>https://koko.ai</url>
+  </organization>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
