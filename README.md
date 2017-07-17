@@ -5,6 +5,23 @@ koko-ai-java is a Java client for https://docs.koko.ai
 
 ## Install
 
+Add the [JitPack](https://jitpack.io) repository:
+
+    <repositories>
+      <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+      </repository>
+    </repositories>
+
+Add the `koko-ai-java` dependency:
+
+    <dependency>
+      <groupId>com.github.itskoko</groupId>
+      <artifactId>koko-ai-java</artifactId>
+      <version>master-SNAPSHOT</version>
+    </dependency>
+
 ## Usage
 
 Set your Koko auth key.
