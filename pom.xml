@@ -29,9 +29,9 @@
     </dependency>
   </dependencies>
   <licenses>
-      <license>
-          <name>MIT</name>
-          <url>http://choosealicense.com/licenses/mit/</url>
-      </license>
+    <license>
+      <name>MIT</name>
+      <url>http://choosealicense.com/licenses/mit/</url>
+    </license>
   </licenses>
 </project>
