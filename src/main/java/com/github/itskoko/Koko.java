@@ -1,4 +1,4 @@
-package ai.koko;
+package com.github.itskoko;
 
 import java.util.Map;
 import java.util.HashMap;
